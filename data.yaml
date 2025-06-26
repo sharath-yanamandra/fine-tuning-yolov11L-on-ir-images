@@ -1,0 +1,5 @@
+names:
+- person
+nc: 1
+train: C:/Users/DELL/Desktop/SIB demo/sib ir images/train/images
+val: C:/Users/DELL/Desktop/SIB demo/sib ir images/test/images
